@@ -11,7 +11,7 @@ Created with CodeSandbox
   1. Sticky Navbar
   2. Menu Navigation bar( For responsive devices)
   3. The design havent been fully responsive yet.
-  4. Looks best on Laptops/ PCs this moment.
+  4. Looks best on Laptops/ PCs at this moment. ( will make it complete responsive)
   5. Developed to give an outstanding credit to my inspired mentor - Tanay Pratap ;-) 
   6. Just for learning purpose only.
   7. All UI/ UX design is credited to me. ( My own design, folks ;) ) 
